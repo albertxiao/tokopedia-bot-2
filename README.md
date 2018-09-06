@@ -6,7 +6,7 @@ How to install ?
 - Copy geckodriver.exe to c:\Windows\System32
 - Edit your tokopedia username and password at config.txt
 
-
+Need linux version of this bot ? contact me via twitter : @ringlayer
 
 
 Copyright 2018 by Ringlayer Robotic
